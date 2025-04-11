@@ -1,0 +1,39 @@
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+ENV/
+env/
+.venv/
+
+# Archivos y directorios generados por Flask
+instance/
+.webassets-cache
+
+# Archivos de distribución y empaquetado
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Archivos de logs
+*.log
+
+# Reportes de pruebas y cobertura
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Archivos de configuración sensibles
+# .env
+
+# Configuración de editores e IDEs
+.vscode/
+.idea/
+
+.DS_Store

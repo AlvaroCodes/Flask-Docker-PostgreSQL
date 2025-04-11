@@ -1,0 +1,1 @@
+# Por si se quiere añadir configuración a app.config
